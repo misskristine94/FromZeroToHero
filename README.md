@@ -1,8 +1,5 @@
 # FromZeroToHero
 
-![4qtZXvs-_400x400](https://user-images.githubusercontent.com/86930618/223225312-6c683561-732a-47a4-bcb0-9bfa7d9465ea.jpg)
-
-
 Hey Hero! 🦾
 
 Welcome to your From Zero To Hero exercise!
